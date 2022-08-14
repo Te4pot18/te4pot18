@@ -3,7 +3,7 @@
 ---
 ## 🖥️ Mon Discord :
 <a href="https://discord.com/users/173813171272941569">
-<img src="https://lanyard.cnrad.dev/api/173813171272941569?hideTimestamp=true&idleMessage=https://discord.gg/miaou" align="center" />
+<img src="https://lanyard.cnrad.dev/api/173813171272941569?hideTimestamp=true&idleMessage=https://discord.gg/vendetta-x" align="center" />
 </a>
 
 ## 🎲 Mes résaux :
